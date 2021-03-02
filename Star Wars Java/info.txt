@@ -1,0 +1,3 @@
+This folder is a Project in Java that was build as a side scrolling game. 
+To play the game please open the file in Greenfoot.
+This shows my understanding in Java.
