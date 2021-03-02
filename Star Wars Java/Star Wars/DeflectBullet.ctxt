@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DeflectBullet
+comment0.text=\n\ Write\ a\ description\ of\ class\ DeflectBullet\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ DeflectBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=DeflectBullet()
+comment2.text=\n\ Default\ Constructor\ and\ initalizes\ the\ images\n
+comment3.params=
+comment3.target=void\ away()
+comment3.text=\n\ Display\ the\ deflect\ images\n
+numComments=4

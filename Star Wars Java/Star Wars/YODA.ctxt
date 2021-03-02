@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=YODA
+comment0.text=\n\ A\ user-controlled\ actor\ that\ walks\ and\ jumps,\ and\ is\ pulled\ down\ by\ gravity.\n\ <l><li>Left\ arrow\ moves\ actor\ left\ (toward\ left\ scroll\ limit)</li>\n\ <li>Right\ arrow\ moves\ actor\ right\ (toward\ right\ scroll\ limit)</li>\n\ <li>Up\ arrow\ makes\ the\ actor\ jump</li><l>\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \n\ Checks\ for\ changes\ in\ direction\ and\ moves\ the\ main\ actor.\n
+comment2.params=
+comment2.target=YODA()
+comment3.params=
+comment3.target=void\ forceblockbullet()
+comment3.text=\n\ Blocks\ bullet\ by\ defending\n
+comment4.params=
+comment4.target=void\ healthlost()
+comment5.params=
+comment5.target=void\ deflect()
+comment5.text=\n\ Deflects\ the\ bullet\n
+comment6.params=
+comment6.target=void\ fire()
+comment6.text=\n\ fire\ the\ force\n
+comment7.params=
+comment7.target=void\ Lose()
+numComments=8

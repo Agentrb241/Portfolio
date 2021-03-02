@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WIN
+comment0.text=\n\ Write\ a\ description\ of\ class\ player2Wins\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=WIN()
+comment1.text=\n\ Create\ a\ score\ board\ with\ dummy\ result\ for\ testing.\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=title
+comment3.target=void\ makeImage(java.lang.String)
+comment3.text=\n\ Make\ the\ score\ board\ image.\n
+numComments=4
