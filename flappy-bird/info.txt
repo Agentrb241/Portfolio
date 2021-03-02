@@ -1,0 +1,2 @@
+An Embedded Systems Project that was written in C 
+and utilizes an ATMEGA 1284, 8x8 LED Matrix, and an Analog  Stick
