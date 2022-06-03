@@ -1,0 +1,20 @@
+# clock pin for Basys Board
+// Inputs
+NET "clk" LOC = "B8" ;
+NET "b_one" LOC = "A7" ;
+NET "b_two" LOC = "M4" ;
+// Outputs
+NET "light_one" LOC = "M5";
+NET "light_two" LOC = "M11";
+NET "light_three" LOC = "G1";
+//NET "an[0]" LOC = "k14";
+//NET "an[1]" LOC = "m13";
+//NET "an[2]" LOC = "j12";
+//NET "an[3]" LOC = "f12";
+//NET "sseg[0]" LOC = "l14";
+//NET "sseg[1]" LOC = "h12";
+//NET "sseg[2]" LOC = "n14";
+//NET "sseg[3]" LOC = "n11";
+//NET "sseg[4]" LOC = "p12";
+//NET "sseg[5]" LOC = "l13";
+//NET "sseg[6]" LOC = "m12"; 
